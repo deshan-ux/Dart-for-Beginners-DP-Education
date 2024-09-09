@@ -5,7 +5,7 @@ Enums or enumerated types are special classes representing a fixed number of con
 enum statusCode {
   success,
   error,
-  warning,
+  warning,mmm
   info,
 }
 
